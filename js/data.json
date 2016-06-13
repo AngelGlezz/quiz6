@@ -1,0 +1,344 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Dónde está el balón?",
+      "respuestas": [
+        {
+          "respuesta": "a",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "b",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "c",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
