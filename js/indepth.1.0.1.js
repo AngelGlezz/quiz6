@@ -699,7 +699,7 @@ $("#indepth_twittear").click(function(){
 
 	if(!disable){
 
-		var text = encodeURIComponent("Mi predicción es: México "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Venezuela primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
+		var text = encodeURIComponent("Mi predicción es: Argentina "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Bolivia primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
 		var url = encodeURIComponent("http://juanfutbol.com/indepth/juanpizza-copa-america");
 		window.open("https://twitter.com/share?text="+text+"&hashtags=juanpizza&url="+url,"","width=500, height=300");
 
