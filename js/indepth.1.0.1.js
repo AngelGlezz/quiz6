@@ -699,14 +699,8 @@ $("#indepth_twittear").click(function(){
 
 	if(!disable){
 
-		
-<<<<<<< HEAD:js/indepth.js
-		var text = encodeURIComponent("Mi predicción es: Argentina "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Bolivia primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
-		var url = encodeURIComponent("http://juanfutbol.com/indepth/");
-=======
 		var text = encodeURIComponent("Mi predicción es: México "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Venezuela primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
 		var url = encodeURIComponent("http://juanfutbol.com/indepth/juanpizza-copa-america");
->>>>>>> origin/gh-pages:js/indepth.1.0.1.js
 		window.open("https://twitter.com/share?text="+text+"&hashtags=juanpizza&url="+url,"","width=500, height=300");
 
 	}else{
